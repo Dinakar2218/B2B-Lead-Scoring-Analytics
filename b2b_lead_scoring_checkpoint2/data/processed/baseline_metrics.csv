@@ -1,0 +1,10 @@
+metric,value
+total_leads,12000.0
+converted_leads,2216.0
+conversion_rate_pct,18.47
+median_response_hours,9.31
+average_response_hours,10.91
+average_rfqs,2.21
+fast_response_rate_pct,28.52
+duplicate_lead_ids,0.0
+missing_values_after_cleaning,0.0
